@@ -19,7 +19,7 @@ To pass the Sales-Con-201 exam, candidates should focus heavily on the following
 
 For a first-hand account of the exam format, scenario traps, and time-management tips, check out this comprehensive write-up:
 
-* [My Experience Taking the Salesforce Sales-Con-201 Exam: Tips, Resources, and Pitfalls to Avoid](https://infiniteloopcole.hashnode.dev/my-experience-taking-the-salesforce-sales-con-201-exam-tips-resources-and-pitfalls-to-avoid)
+* [My Experience Taking the Salesforce Sales-Con-201 Exam: Tips, Resources, and Pitfalls to Avoid](https://telegra.ph/Salesforce-Certified-Administrator-ADM-201-Architecture-Security-and-Flow-Lessons-Learned-08-15)
 
 ---
 

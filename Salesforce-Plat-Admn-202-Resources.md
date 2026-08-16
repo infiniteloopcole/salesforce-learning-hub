@@ -14,7 +14,7 @@ This document serves as the dedicated study index and reference log for the **Sa
 
 ## 📖 External Revision Notes & Drills
 
-* For unstructured study logs, schema breakdown notes, and scenario-based practice questions, check out our [Salesforce Plat-Admn-202 Rentry Study Guide](https://rentry.co/x59v9gi6).
+* For unstructured study logs, schema breakdown notes, and scenario-based practice questions, check out our [Salesforce Plat-Admn-202 Rentry Study Guide](https://rentry.co/salesforce-app-builder-exam-strategies).
 * Official exam updates and module badges can be tracked directly through the Salesforce Trailhead ecosystem.
 
 ---

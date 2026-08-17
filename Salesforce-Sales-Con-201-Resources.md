@@ -28,3 +28,17 @@ For a first-hand account of the exam format, scenario traps, and time-management
 1. **Leverage Developer Orgs**: Always test complex lead-routing and opportunity-stage rules in a hands-on environment before test day.
 2. **Prioritize Native Features**: Choose out-of-the-box Salesforce configurations over custom APEX solutions unless explicit business constraints dictate otherwise.
 3. **Pacing**: Aim to spend no more than 1.5 minutes per question during the live exam session.
+
+---
+
+🔗 Official Salesforce Documentation & Trailhead Resources
+
+* [Salesforce Trailhead: Administrator & Sales Cloud Learning Paths](https://trailhead.salesforce.com/) - Interactive hands-on modules and superbadges.
+* [Salesforce Developer Documentation](https://developer.salesforce.com/docs/) - Apex developer guides, REST API reference, and LWC standards.
+* [Salesforce Help Portal](https://help.salesforce.com/) - Official admin guides for Sharing Settings, Flow Builder, and Sales Cloud setup.
+
+---
+
+📚 Recommended Architectural & Exam Guides
+
+* [Salesforce Administrator & Sales Consultant (Sales-Con-201) Architectural Guide](https://dev.to/infiniteloopcole/salesforce-certified-administrator-sales-con-201-data-models-security-flow-architecture-g7a) - Comprehensive breakdown of data models, security frameworks, and flow architecture scenarios.

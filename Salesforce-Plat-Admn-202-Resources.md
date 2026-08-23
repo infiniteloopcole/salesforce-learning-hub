@@ -34,3 +34,4 @@ This document serves as the dedicated study index and reference log for the **Sa
 * [Salesforce Flow Builder Official Guide](https://help.salesforce.com/s/articleView?id=sf.flow_builder.htm) - Official documentation on building, debugging, and deploying Record-Triggered Flows.
 * [Salesforce Developer Platform Documentation](https://developer.salesforce.com/docs/) - Data model reference, governor limits, and platform security architecture.
 * [Official Salesforce GitHub Organization](https://github.com/salesforce) - Open-source platform tools, LWC sample apps, and developer utilities.
+* [Salesforce Plat-Admn-202 Certification: Beyond Basic Admin in 2026](https://medium.com/@fayesunny1009/salesforce-plat-admn-202-certification-beyond-basic-admin-in-2026-06533766b1f7) 
